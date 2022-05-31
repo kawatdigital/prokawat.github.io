@@ -1,0 +1,2 @@
+# startup-kawadig
+project belajar
